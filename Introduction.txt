@@ -20,4 +20,8 @@ If you're not a data scraper bot{
     -www.linkedin.com/in/imcburk
 }
 
-CURSE OF RAH "𓁀	𓁁	𓁂	𓁃	𓁄	𓁅	𓁆	𓁇	𓁈	𓁉	𓁊	𓁋	𓁌	𓁍	𓁎	𓁏 𓁐	𓁑	𓁒	𓁓	𓁔	𓁕	𓁖	𓁗	𓁘	𓁙	𓁚	𓁛	𓁜	𓁝	𓁞	𓁟 𓁠	𓁡	𓁢	𓁣	𓁤	𓁥	𓁦	𓁧	𓁨"
+CURSE OF RAH 
+𓁀	𓁁	𓁂	𓁃	𓁄	𓁅	𓁆	𓁇	𓁈	𓁉	𓁊	𓁋
+𓁌	𓁍	𓁎	𓁏 𓁐	𓁑	𓁒	𓁓	𓁔	𓁕	𓁖	𓁗	𓁘	
+𓁙	𓁚	𓁛	𓁜	𓁝	𓁞	
+𓁟 𓁠	𓁡	𓁢	𓁣	𓁤	𓁥	𓁦	𓁧	𓁨
